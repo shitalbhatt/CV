@@ -2,7 +2,7 @@
 
 A single-page academic portfolio for **Dr. Shital Dineshchandra Bhatt**, Associate Professor at the School of Engineering and Technology, Vidyashilp University, Bengaluru.
 
-**Live site:** index.html
+**Live site:** https://shitalbhatt.github.io/CV/
 
 ## About
 
